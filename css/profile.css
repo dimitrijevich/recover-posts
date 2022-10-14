@@ -1,0 +1,765 @@
+.profile::after {
+    content: "";
+}
+:root {
+    font-size: 0.625pc;
+}
+[class~="btn"]:focus {
+    outline: 0.5rem auto #4d90fe;
+}
+[class~="container"] {
+    max-width: 90rem;
+}
+[class~="container"] {
+    margin-left: auto;
+}
+.profile::after {
+    display: block;
+}
+[class~="container"] {
+    margin-bottom: 0;
+}
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+[class~="gallery-item"]:hover [class~="gallery-item-info"] {
+    display: flex;
+}
+[class~="container"] {
+    margin-right: auto;
+}
+[class~="container"] {
+    margin-top: 0;
+}
+[class~="container"] {
+    padding-left: 2rem;
+}
+[class~="container"],
+.btn {
+    padding-bottom: 0;
+}
+[class~="container"] {
+    padding-right: 2rem;
+}
+[class~="container"],
+.btn {
+    padding-top: 0;
+}
+[class~="profile-stats"] li,
+.btn,
+[class~="gallery-item-info"] li {
+    display: inline-block;
+}
+.btn {
+    font: inherit;
+}
+.btn {
+    background: none;
+}
+.btn {
+    border-left-width: medium;
+}
+.btn {
+    border-bottom-width: medium;
+}
+.btn {
+    border-right-width: medium;
+}
+.profile::after {
+    clear: both;
+}
+.btn {
+    border-top-width: medium;
+}
+[class~="profile-image"] img {
+    border-radius: 50%;
+}
+.btn {
+    border-left-style: none;
+}
+.btn {
+    border-bottom-style: none;
+}
+[class~="profile-stats"] ul {
+    margin-left: -30pt;
+}
+[class~="profile-image"],
+[class~="gallery-item"]:hover [class~="gallery-item-info"] {
+    justify-content: center;
+}
+[class~="profile-image"],
+[class~="gallery-item"]:hover [class~="gallery-item-info"] {
+    align-items: center;
+}
+.btn {
+    border-right-style: none;
+}
+.btn {
+    border-top-style: none;
+}
+.btn {
+    border-left-color: currentColor;
+}
+.btn {
+    border-bottom-color: currentColor;
+}
+.btn {
+    border-right-color: currentColor;
+}
+[class~="profile-stats"] li {
+    font-size: 1.6rem;
+}
+.btn {
+    border-top-color: currentColor;
+}
+.btn {
+    border-image: none;
+}
+.btn {
+    color: inherit;
+}
+.profile,
+.btn {
+    padding-left: 0;
+}
+[class~="profile-stats"] li {
+    line-height: 1.5;
+}
+.profile,
+.btn {
+    padding-right: 0;
+}
+.btn,
+[class~="profile-stats"] li {
+    cursor: pointer;
+}
+[class~="visually-hidden"] {
+    position: absolute !important;
+}
+[class~="visually-hidden"] {
+    height: 0.010416667in;
+}
+[class~="profile-stats"] li {
+    margin-right: 4rem;
+}
+[class~="gallery-item-info"] li {
+    font-size: 1.7rem;
+}
+[class~="visually-hidden"] {
+    width: 0.010416667in;
+}
+[class~="visually-hidden"] {
+    overflow: hidden;
+}
+[class~="visually-hidden"] {
+    clip: rect(1px, 1px, 1px, 1px);
+}
+[class~="gallery-item-info"] li {
+    font-weight: 600;
+}
+[class~="gallery-item"]:hover [class~="gallery-item-info"] {
+    position: absolute;
+}
+[class~="loader-proc"] p {
+    margin-top: 0.25pc;
+}
+.profile {
+    padding-bottom: 5rem;
+}
+[class~="loader-proc"] p {
+    font-size: small;
+}
+.profile {
+    padding-top: 5rem;
+}
+[class~="profile-image"] {
+    max-width: 120pt;
+}
+.profile-bio,
+.profile-user-settings,
+[class~="profile-image"] {
+    float: left;
+}
+[class~="profile-image"] {
+    width: calc(33.333% - 1rem);
+}
+.gallery-item:focus .gallery-item-info,
+[class~="profile-image"] {
+    display: flex;
+}
+[class~="profile-image"] {
+    margin-right: 3rem;
+}
+body {
+    font-family: "Open Sans", Arial, sans-serif;
+}
+[class~="gallery-item"]:hover [class~="gallery-item-info"] {
+    top: 0;
+}
+.profile-bio,
+.profile-user-settings {
+    width: calc(66.666% - 2rem);
+}
+[class~="gallery-item"]:hover [class~="gallery-item-info"] {
+    width: 100%;
+}
+[class~="profile-user-settings"] {
+    margin-top: 1.1rem;
+}
+[class~="gallery-item"]:hover [class~="gallery-item-info"] {
+    height: 100%;
+}
+[class~="profile-user-name"] {
+    display: inline-block;
+}
+[class~="profile-user-name"] {
+    font-size: 3.2rem;
+}
+[class~="profile-user-name"] {
+    font-weight: 300;
+}
+[class~="profile-edit-btn"] {
+    font-size: 1.4rem;
+}
+[class~="profile-edit-btn"] {
+    line-height: 1.8;
+}
+[class~="profile-edit-btn"] {
+    border-left-width: 0.1rem;
+}
+[class~="profile-edit-btn"] {
+    border-bottom-width: 0.1rem;
+}
+[class~="loader-proc"] p {
+    text-align: center;
+}
+.loader-proc img {
+    margin-left: auto;
+}
+[class~="profile-edit-btn"] {
+    border-right-width: 0.1rem;
+}
+[class~="gallery-item"]:hover [class~="gallery-item-info"] {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+[class~="profile-edit-btn"] {
+    border-top-width: 0.1rem;
+}
+[class~="profile-edit-btn"] {
+    border-left-style: solid;
+}
+[class~="profile-edit-btn"] {
+    border-bottom-style: solid;
+}
+[class~="profile-edit-btn"] {
+    border-right-style: solid;
+}
+[class~="profile-edit-btn"] {
+    border-top-style: solid;
+}
+[class~="profile-edit-btn"] {
+    border-left-color: #dbdbdb;
+}
+[class~="profile-edit-btn"] {
+    border-bottom-color: #dbdbdb;
+}
+body {
+    min-height: 100vh;
+}
+.gallery-item:focus .gallery-item-info {
+    justify-content: center;
+}
+[class~="profile-edit-btn"] {
+    border-right-color: #dbdbdb;
+}
+[class~="profile-edit-btn"] {
+    border-top-color: #dbdbdb;
+}
+.loader-proc img {
+    margin-bottom: auto;
+}
+[class~="profile-edit-btn"] {
+    border-image: none;
+}
+[class~="profile-edit-btn"] {
+    border-radius: 0.3rem;
+}
+body {
+    background-color: #fafafa;
+}
+[class~="profile-edit-btn"] {
+    padding-left: 2.4rem;
+}
+[class~="profile-edit-btn"] {
+    padding-bottom: 0;
+}
+[class~="profile-edit-btn"] {
+    padding-right: 2.4rem;
+}
+[class~="profile-edit-btn"] {
+    padding-top: 0;
+}
+[class~="profile-edit-btn"] {
+    margin-left: 2rem;
+}
+.profile-settings-btn {
+    font-size: 2rem;
+}
+.gallery-item:focus .gallery-item-info {
+    align-items: center;
+}
+.profile-settings-btn {
+    margin-left: 1rem;
+}
+[class~="profile-stats"],
+[class~="profile-bio"] {
+    margin-top: 2.3rem;
+}
+[class~="profile-bio"] {
+    font-size: 1.6rem;
+}
+[class~="profile-bio"] {
+    font-weight: 400;
+}
+.gallery-item:focus .gallery-item-info {
+    position: absolute;
+}
+[class~="profile-bio"] {
+    line-height: 1.5;
+}
+[class~="profile-real-name"],
+.profile-edit-btn,
+[class~="profile-stat-count"] {
+    font-weight: 600;
+}
+.loader-proc img {
+    margin-right: auto;
+}
+.loader-proc img {
+    margin-top: auto;
+}
+[class~="gallery"] {
+    display: flex;
+}
+[class~="gallery"] {
+    flex-wrap: wrap;
+}
+[class~="gallery"] {
+    margin-left: -1rem;
+}
+[class~="gallery"] {
+    margin-bottom: -1rem;
+}
+.gallery-item:focus .gallery-item-info {
+    top: 0;
+}
+[class~="gallery"] {
+    margin-right: -1rem;
+}
+[class~="gallery"] {
+    margin-top: -1rem;
+}
+[class~="gallery"],
+body {
+    padding-bottom: 3rem;
+}
+.gallery-item:focus .gallery-item-info,
+.gallery-image {
+    width: 100%;
+}
+[class~="gallery-item"] {
+    position: relative;
+}
+[class~="gallery-item"] {
+    flex: 1 0 22rem;
+}
+[class~="gallery-item"] {
+    margin-left: 1rem;
+}
+[class~="gallery-item"] {
+    margin-bottom: 1rem;
+}
+[class~="gallery-item"] {
+    margin-right: 1rem;
+}
+[class~="gallery-item"] {
+    margin-top: 1rem;
+}
+[class~="gallery-item"] {
+    color: #fff;
+}
+.loader-proc img {
+    width: 50%;
+}
+[class~="gallery-item"] {
+    cursor: pointer;
+}
+.gallery-item:focus .gallery-item-info,
+.gallery-image {
+    height: 100%;
+}
+[class~="gallery-item-info"] {
+    display: none;
+}
+[class~="gallery-item-likes"] {
+    margin-right: 2.2rem;
+}
+body {
+    color: #262626;
+}
+[class~="gallery-item-type"] {
+    position: absolute;
+}
+[class~="gallery-item-type"] {
+    top: 1rem;
+}
+[class~="gallery-item-type"] {
+    right: 1rem;
+}
+.loader-proc img {
+    max-width: 30px;
+}
+[class~="gallery-item-type"] {
+    font-size: 2.5rem;
+}
+[class~="gallery-item-type"] {
+    text-shadow: 0.2rem 0.2rem 0.2rem rgba(0, 0, 0, 0.1);
+}
+[class~="fa-comment"],
+[class~="fa-clone"] {
+    transform: rotateY(180deg);
+}
+.gallery-image {
+    object-fit: cover;
+}
+[class~="loader"] {
+    width: 5rem;
+}
+.gallery-item:focus .gallery-item-info {
+    background-color: rgba(0, 0, 0, 0.3);
+}
+[class~="loader"] {
+    height: 5rem;
+}
+[class~="loader"] {
+    border-left-width: 0.6rem;
+}
+[class~="loader"] {
+    border-bottom-width: 0.6rem;
+}
+[class~="loader"] {
+    border-right-width: 0.6rem;
+}
+* {
+    box-sizing: border-box;
+}
+img {
+    display: block;
+}
+[class~="loader"] {
+    border-top-width: 0.6rem;
+}
+[class~="loader"] {
+    border-left-style: solid;
+}
+[class~="loader"] {
+    border-bottom-style: solid;
+}
+[class~="loader"] {
+    border-right-style: solid;
+}
+[class~="loader"] {
+    border-top-style: solid;
+}
+[class~="loader"] {
+    border-left-color: #999;
+}
+[class~="loader"] {
+    border-bottom-color: transparent;
+}
+[class~="loader"] {
+    border-right-color: #999;
+}
+[class~="loader"] {
+    border-top-color: #999;
+}
+[class~="loader"] {
+    border-image: none;
+}
+[class~="loader"] {
+    border-radius: 50%;
+}
+[class~="loader"] {
+    margin-left: auto;
+}
+[class~="loader"] {
+    margin-bottom: 0;
+}
+[class~="loader"] {
+    margin-right: auto;
+}
+[class~="loader"] {
+    margin-top: 0;
+}
+[class~="loader"] {
+    animation: loader 500ms linear infinite;
+}
+[class~="profile-stats"] li:last-of-type {
+    margin-right: 0;
+}
+@media screen and (max-width: 40rem) {
+    .profile,
+    [class~="gallery"] {
+        display: flex;
+    }
+    [class~="gallery-item"] img {
+        max-width: auto;
+    }
+    [class~="profile-user-settings"],
+    .profile {
+        flex-wrap: wrap;
+    }
+    .profile,
+    [class~="profile-stats"] ul,
+    [class~="profile-edit-btn"] {
+        padding-left: 0;
+    }
+    .profile {
+        padding-bottom: 0.5rem;
+    }
+    [class~="gallery-item"] img {
+        max-height: auto;
+    }
+    [class~="profile"]::after {
+        display: none;
+    }
+    [class~="profile-edit-btn"],
+    .profile,
+    [class~="profile-stats"] ul {
+        padding-right: 0;
+    }
+    .profile {
+        padding-top: 0.5rem;
+    }
+    [class~="profile-stats"] ul,
+    [class~="profile-user-settings"] {
+        display: flex;
+    }
+    [class~="gallery"] {
+        grid-template-columns: repeat(3, 1fr) !important;
+    }
+    [class~="gallery"] {
+        grid-gap: 2rem;
+    }
+    [class~="profile-image"],
+    .profile-user-settings,
+    .profile-stats,
+    [class~="profile-bio"] {
+        float: none;
+    }
+    [class~="profile-bio"],
+    [class~="profile-image"],
+    .profile-stats,
+    .profile-user-settings {
+        width: auto;
+    }
+    [class~="profile-edit-btn"],
+    [class~="profile-stats"] ul {
+        text-align: center;
+    }
+    [class~="profile-stats"] ul {
+        padding-bottom: 1.2rem;
+    }
+    [class~="profile-image"] {
+        max-width: 1.302083333in;
+    }
+    [class~="profile-stats"] ul {
+        padding-top: 1.2rem;
+    }
+    [class~="profile-stats"] ul {
+        border-top-width: 0.1rem;
+    }
+    [class~="profile-user-settings"] {
+        flex-basis: calc(100% - 10.7rem);
+    }
+    [class~="profile-stats"] ul {
+        border-top-style: solid;
+    }
+    [class~="profile-stats"] ul {
+        border-top-color: #dadada;
+    }
+    [class~="profile-stats"] ul {
+        border-image: none;
+    }
+    [class~="profile-user-settings"],
+    [class~="profile-edit-btn"] {
+        margin-top: 1rem;
+    }
+    [class~="profile-stats"] ul {
+        border-bottom-width: 0.1rem;
+    }
+    [class~="profile-user-name"] {
+        font-size: 2.2rem;
+    }
+    [class~="profile-edit-btn"],
+    [class~="profile-stats"] {
+        order: 1;
+    }
+    [class~="profile-stats"] ul {
+        border-bottom-style: solid;
+    }
+    [class~="profile-edit-btn"] {
+        padding-bottom: 0;
+    }
+    [class~="profile-stats"] ul {
+        border-bottom-color: #dadada;
+    }
+    [class~="profile-edit-btn"] {
+        padding-top: 0;
+    }
+    [class~="profile-bio"],
+    [class~="profile-stats"] li {
+        font-size: 1.4rem;
+    }
+    [class~="profile-stats"] li {
+        flex: 1;
+    }
+    [class~="profile-edit-btn"] {
+        margin-left: 0;
+    }
+    [class~="profile-bio"],
+    [class~="profile-stats"] {
+        margin-top: 1.5rem;
+    }
+    [class~="profile-edit-btn"],
+    .profile-bio,
+    [class~="profile-stats"] {
+        flex-basis: 100%;
+    }
+    [class~="profile-stats"] li {
+        margin-left: 0;
+    }
+    [class~="profile-stats"] li {
+        margin-bottom: 0;
+    }
+    [class~="profile-stats"] li {
+        margin-right: 0;
+    }
+    [class~="profile-stats"] li {
+        margin-top: 0;
+    }
+    [class~="profile-stat-count"] {
+        display: block;
+    }
+}
+@keyframes loader {
+    to {
+        transform: rotate(360deg);
+    }
+}
+@supports (display: grid) {
+    [class~="gallery"],
+    [class~="profile"] {
+        display: grid;
+    }
+    [class~="profile"] {
+        grid-template-columns: 1fr 2fr;
+    }
+    [class~="profile"] {
+        grid-template-rows: repeat(3, auto);
+    }
+    [class~="profile"] {
+        grid-column-gap: 2rem;
+    }
+    [class~="profile"] {
+        align-items: center;
+    }
+    [class~="profile-image"] {
+        grid-row: 1/-1;
+    }
+    [class~="gallery"] {
+        grid-template-columns: repeat(auto-fit, minmax(22rem, 1fr));
+    }
+    [class~="gallery"] {
+        grid-gap: 2rem;
+    }
+    [class~="profile-bio"],
+    [class~="profile-image"],
+    [class~="profile-stats"],
+    [class~="profile-user-settings"],
+    .gallery-item,
+    [class~="gallery"] {
+        width: auto;
+    }
+    [class~="profile-stats"],
+    [class~="profile-user-settings"],
+    .gallery-item,
+    [class~="gallery"],
+    [class~="profile-bio"],
+    [class~="profile-image"] {
+        margin-left: 0;
+    }
+    [class~="profile-bio"],
+    [class~="profile-image"],
+    .gallery-item,
+    [class~="gallery"],
+    [class~="profile-stats"],
+    [class~="profile-user-settings"] {
+        margin-bottom: 0;
+    }
+    [class~="profile-image"],
+    [class~="profile-bio"],
+    [class~="gallery"],
+    [class~="profile-stats"],
+    [class~="profile-user-settings"],
+    .gallery-item {
+        margin-right: 0;
+    }
+    .gallery-item,
+    [class~="profile-bio"],
+    [class~="profile-stats"],
+    [class~="profile-user-settings"],
+    [class~="profile-image"],
+    [class~="gallery"] {
+        margin-top: 0;
+    }
+    @media (max-width: 40rem) {
+        [class~="profile"] {
+            grid-template-columns: auto 1fr;
+            grid-row-gap: 1.5rem;
+        }
+        [class~="profile-image"] {
+            grid-row: 1/2;
+        }
+        [class~="profile-user-settings"] {
+            display: grid;
+            grid-template-columns: auto 1fr;
+            grid-gap: 1rem;
+        }
+        [class~="profile-stats"],
+        [class~="profile-bio"],
+        [class~="profile-edit-btn"] {
+            grid-column: 1/-1;
+        }
+        [class~="profile-user-settings"],
+        .profile-edit-btn,
+        [class~="profile-stats"],
+        [class~="profile-bio"],
+        .profile-settings-btn {
+            margin: 0;
+        }
+    }
+}
+#ph4,
+#ph3,
+#ph7,
+#ph2,
+#loader-big,
+#ph8,
+#ph5,
+#ph1,
+#ph6,
+#ph9 {
+    display: none;
+}
